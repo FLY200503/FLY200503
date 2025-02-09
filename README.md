@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 
 <!-- 页脚 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Focusing+on+Web3.0+ Security+%E2%9C%A8&fontSize=32&fontAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Focus+on+Web3.0+Security+%E2%9C%A8&fontSize=21&fontAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
