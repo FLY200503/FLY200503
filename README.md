@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- 动态黑客横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20FLY%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20FLY%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration%20Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
 
 <!-- 动态打字效果 -->
