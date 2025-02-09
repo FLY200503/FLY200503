@@ -56,11 +56,8 @@ Here are some ideas to get you started:
 <!-- 项目展示 -->
 <h2 align="center">⚡ Recent Projects</h2>
 <p align="center">
-  <a href="https://github.com/FLY200503/SmartContract-Audit-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FLY200503&repo=SmartContract-Audit-Guide&theme=radical" />
-  </a>
-  <a href="https://github.com/FLY200503/Blockchain-Security-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FLY200503&repo=Blockchain-Security-Tools&theme=radical" />
+  <a href="https://github.com/FLY200503/FLY200503">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FLY200503&repo=FLY200503&theme=radical" />
   </a>
 </p>
 
@@ -71,7 +68,7 @@ Here are some ideas to get you started:
 
 <!-- 黑客背景透明图片 -->
 <p align="center">
-  <img src="https://example.com/your-transparent-hacker-background-image.png" alt="黑客背景" />
+  <img src="https://w.wallhaven.cc/full/j3/wallhaven-j3peqm.jpg" alt="background" />
 </p>
 
 <!-- 页脚 -->
