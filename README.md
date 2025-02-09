@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 动态黑客横幅 -->
+<!-- 动态横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20FLY%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration%20Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20Cyber%20Security%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration%20Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
 
 <!-- 动态打字效果 -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <!-- 技能图标 -->
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,go,py,js,ts,git,linux,docker,kubernetes,grafana,md,vim,ae&perline=7&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,go,py,js,git,linux,docker,md,vim&perline=7&theme=light" />
 </p>
 
 <!-- 活动图 -->
@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 
 <!-- 页脚 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's+Secure+the+Blockchain+Together+%E2%9C%A8&fontSize=32&fontAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Focusing+on+Blockchain Security+%E2%9C%A8&fontSize=32&fontAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
