@@ -15,108 +15,66 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>二次元GitHub README</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f0f0f0;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .header {
-            text-align: center;
-            padding: 20px 0;
-        }
-        .header img {
-            width: 200px;
-            height: auto;
-            border-radius: 50%;
-            border: 5px solid #ff69b4;
-        }
-        .header h1 {
-            font-size: 2.5em;
-            color: #ff69b4;
-            margin: 10px 0;
-        }
-        .header p {
-            font-size: 1.2em;
-            color: #666;
-        }
-        .projects {
-            margin-top: 20px;
-        }
-        .project {
-            background-color: #f9f9f9;
-            border: 1px solid #ddd;
-            margin-bottom: 15px;
-            padding: 15px;
-            border-radius: 5px;
-        }
-        .project h2 {
-            font-size: 1.8em;
-            color: #ff69b4;
-            margin: 0 0 10px;
-        }
-        .project img {
-            width: 100px;
-            height: auto;
-            border-radius: 10px;
-            float: left;
-            margin-right: 15px;
-        }
-        .project p {
-            font-size: 1.2em;
-            color: #333;
-        }
-        .project a {
-            color: #ff69b4;
-            text-decoration: none;
-        }
-        .project a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <img src="https://example.com/your-profile-picture.jpg" alt="Profile Picture">
-            <h1>二次元开发者</h1>
-            <p>探索代码与幻想的边界</p>
-        </div>
-        <div class="projects">
-            <div class="project">
-                <img src="https://example.com/project1-image.jpg" alt="Project 1">
-                <h2>二次元角色生成器</h2>
-                <p>一个基于Python的二次元角色生成器，可以随机生成角色的外观、性格和背景故事。快来试试，看看你能生成什么样的二次元角色吧！</p>
-                <a href="https://github.com/your-username/project1">查看项目</a>
-            </div>
-            <div class="project">
-                <img src="https://example.com/project2-image.jpg" alt="Project 2">
-                <h2>二次元动漫推荐系统</h2>
-                <p>一个基于机器学习的二次元动漫推荐系统，根据用户的喜好和观看历史，推荐适合的动漫。再也不用担心找不到好看的动漫啦！</p>
-                <a href="https://github.com/your-username/project2">查看项目</a>
-            </div>
-            <div class="project">
-                <img src="https://example.com/project3-image.jpg" alt="Project 3">
-                <h2>二次元游戏开发</h2>
-                <p>一个使用Unity开发的二次元风格游戏，玩家可以扮演不同的角色，探索奇幻的世界，完成各种任务。快来加入我们的二次元冒险吧！</p>
-                <a href="https://github.com/your-username/project3">查看项目</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<!-- 动态二次元横幅 https://github.com/kyechan99/capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=🛡️%20Cyber%20Waifu&fontSize=90&fontAlignY=40&desc=Blockchain%20Guardian%20|%20Smart%20Contract%20Samurai&descSize=24&descAlignY=65&animation=twinkling&theme=radical" />
+</p>
+
+<!-- 动态打字效果 https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=konnichiwa+%E3%81%BE%E3%81%99%E3%81%9F%E3%82%89%E2%98%86%EF%B8%8F;Auditing+smart+contracts+with+anime+power!;EVM+Architect+%7C%20Zero%20Knowledge+Otaku" />
+</p>
+
+<!-- 统计卡片 -->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FF69B4"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&theme=radical" />
+  </picture>
+  
+  <!-- 最常用语言 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide=html,css&bg_color=45,654ea3,eaafc8&title_color=fff&text_color=fff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&theme=radical&hide=html,css" />
+  </picture>
+</p>
+
+<!-- 技能图标 https://github.com/LelouchFR/skill-icons -->
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,go,py,js,ts,git,linux,docker,kubernetes,grafana,md,vim,ae&perline=7&theme=light">
+</p>
+
+<!-- 活动图 -->
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gzzzxx&theme=react-dark&hide_border=true&area=true&custom_title=Contributions+Timeline&point=FF69B4" />
+</p>
+
+<!-- 项目展示 -->
+<h2 align="center">⚡ Recent Projects</h2>
+<p align="center">
+  <a href="https://github.com/gzzzxx/SmartContract-Audit-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzzzxx&repo=SmartContract-Audit-Guide&theme=radical" />
+  </a>
+  <a href="https://github.com/gzzzxx/Anime-Security-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzzzxx&repo=Anime-Security-Framework&theme=radical" />
+  </a>
+</p>
+
+<!-- 社交徽章 -->
+<p align="center">
+  <a href="https://etherscan.io/address/0x..."><img src="https://img.shields.io/badge/Etherscan-Expert-3C3C3D?logo=ethereum&logoColor=white"></a>
+  <a href="https://medium.com/@cyberwaifu"><img src="https://img.shields.io/badge/Medium-Security%20Blogs-12100E?logo=medium"></a>
+  <a href="https://twitter.com/CyberWaifu_01"><img src="https://img.shields.io/badge/Twitter-%40CyberWaifu_01-1DA1F2?logo=twitter"></a>
+  <a href="https://anilist.co/user/CyberWaifu"><img src="https://img.shields.io/badge/AniList-CyberWaifu-02A9FF?logo=anilist"></a>
+</p>
+
+<!-- 页脚 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Secure%20the%20Metaverse%20Together%20✨&fontSize=32&fontAlignY=65&animation=twinkling&theme=radical" />
+</p>
