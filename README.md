@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- 动态黑客横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20Crypto%20Hacker&fontSize=90&fontAlignY=40&desc=Blockchain%20Guardian%20|%20Smart%20Contract%20Samurai&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20FLY%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
 
 <!-- 动态打字效果 -->
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/FLY200503"><img src="https://img.shields.io/badge/Twitter-@FLY200503-1DA1F2?logo=twitter"></a>
 </p>
 
-<!-- 黑客背景透明图片 -->
+<!-- 背景图片 -->
 <p align="center">
   <img src="https://w.wallhaven.cc/full/j3/wallhaven-j3peqm.jpg" alt="background" />
 </p>
