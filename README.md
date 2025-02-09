@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c381974-a635-46b2-8f49-fd6ee4402b85)<!--
+<!--
 **FLY200503/FLY200503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <!-- 背景图片 -->
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/j3/wallhaven-dpxvll.jpg" alt="background" />
+  <img src="https://w.wallhaven.cc/full/dp/wallhaven-dpxvll.jpg" alt="background" />
 </p>
 
 <!-- 页脚 -->
