@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/8c381974-a635-46b2-8f49-fd6ee4402b85)<!--
 **FLY200503/FLY200503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <!-- 动态横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20Cyber%20Security%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration%20Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=👾%20FLY200503%20&fontSize=90&fontAlignY=40&desc=Web3.0%20Security%20|%20IoV%20Security%20|%20Penetration%20Test%20&descSize=24&descAlignY=65&animation=twinkling&theme=radical&color=00FF00" />
 </p>
 
 <!-- 动态打字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+there+%E2%9C%8D;Auditing+smart+contracts+with+hacking+power!;Blockchain+Developer+%7C+Security+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+there+%E2%9C%8D;Rich;Freedom;Blockchain+Developer+%7C+Security+Researcher" />
 </p>
 
 <!-- 统计卡片 -->
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <!-- 背景图片 -->
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/j3/wallhaven-j3peqm.jpg" alt="background" />
+  <img src="https://w.wallhaven.cc/full/j3/wallhaven-dpxvll.jpg" alt="background" />
 </p>
 
 <!-- 页脚 -->
