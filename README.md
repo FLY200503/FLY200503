@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- 动态打字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+there+%E2%9C%8D;Rich;Freedom;Blockchain+Developer+%7C+Security+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+there+%E2%9C%8D;Rich;Freedom;Developer+%7C+Security+Researcher" />
 </p>
 
 <!-- 统计卡片 -->
